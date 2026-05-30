@@ -3,4 +3,4 @@
 This repo is for COMP 7712 class - Algorithms and Prob Solv. @ University of Memphis
 
 > [!NOTE]
-> This class was taken by Vinthuy Phan
+> This class was taught by Dr. Vinhthuy Phan
